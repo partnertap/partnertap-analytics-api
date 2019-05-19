@@ -48,7 +48,7 @@ If PartnerTap Analytics API is ordered by the Customer, then PartnerTap will:
 
 * upon Customer request, provide Customer or its designated contact with best practice recommendations for using the PartnerTap APIs.
 
-PartnerTap may revise, suspend or cancel any or all PartnerTap APIs, at any time, in accordance with the PartnerTap [API Lifecycle and Deprecation Policy](https://github.com/partnertap/partnertap-analytics-api/api_deprecation_policy.md), which may be reasonably updated by PartnerTap from time to time. Without limiting the foregoing, PartnerTap may suspend or cancel any or all of the PartnerTap APIs immediately, with or without notice to Customer, in the event of an actual or reasonably suspected security breach or threat.
+PartnerTap may revise, suspend or cancel any or all PartnerTap APIs, at any time, in accordance with the PartnerTap [API Lifecycle and Deprecation Policy](https://github.com/partnertap/partnertap-analytics-api/blob/master/api_deprecation_policy.md), which may be reasonably updated by PartnerTap from time to time. Without limiting the foregoing, PartnerTap may suspend or cancel any or all of the PartnerTap APIs immediately, with or without notice to Customer, in the event of an actual or reasonably suspected security breach or threat.
 
 ### _1.0.1.3 Customer's Performance_
 
