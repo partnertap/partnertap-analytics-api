@@ -1,6 +1,6 @@
 # 1.0 PartnerTap Analytics API
 
-PartnerTap Analytics API is an extended service that can be ordered from PartnerTap, Expense or Invoice Processing service types under which PartnerTap will make the following available to Customer: (a) access to the PartnerTap APIs using API Keys issued by PartnerTap, and (b) training and support services as set out below. Customer's use of PartnerTap Analytics API is also subject to additional terms and conditions as set forth or referenced in the Agreement.
+PartnerTap Analytics API is an extended service that can be ordered from PartnerTap, in addition to the PartnerTap Enterprise service, under which PartnerTap will make the following available to Customer: (a) access to the PartnerTap APIs using API Keys issued by PartnerTap, and (b) training and support services as set out below. Customer's use of PartnerTap Analytics API is also subject to additional terms and conditions as set forth or referenced herein and in the Agreement.
 
 ### _1.1 Definitions:_
 
@@ -69,18 +69,18 @@ If PartnerTap Analytics API is ordered by the Customer, then Customer agrees to 
 **CLIENT WEB SERVICES
 TERMS AND CONDITIONS**
 
-Customer's use of PartnerTap Analytics API, including the PartnerTap APIs and the PartnerTap Software Development Kit included therein, shall be subject to the terms of the Agreement including these terms and conditions. In the event that any terms herein are inconsistent with the terms of the Agreement, then these terms and conditions shall control. All capitalized terms herein take their definitions from the Agreement, including those definitions related to PartnerTap Analytics API set forth in the Service Description Guide for the Service.
+Customer's use of PartnerTap Analytics API, including the PartnerTap APIs and the PartnerTap Software Development Kit included therein, shall be subject to the terms of the Agreement including these terms and conditions. In the event that any terms herein are inconsistent with the terms of the Agreement, then these terms and conditions shall control. All capitalized terms herein take their definitions from the Agreement, including those definitions related to PartnerTap Analytics API set forth above.
 
 ## **2.0 GRANT OF RIGHTS; USE RESTRICTIONS**
 
 ### **2.1.** Grant of Rights. Subject to Customer's compliance with the Agreement (including these terms and conditions), PartnerTap hereby grants to Customer a nonexclusive, nontransferable license to do the following solely in connection with its use of the PartnerTap APIs:
 
-1. (a)use the PartnerTap APIs to develop the Customer Software and customize and configure Customer's systems and networks solely as necessary to interface with the PartnerTap Servers;
-2. (b)create Modified Code and incorporate the Sample Code, Code Library or Modified Code into the Customer Software;
-3. (c)use Sample Code, the Code Library or Modified Code incorporated in Customer Software to interface with the PartnerTap Servers; and
-4. (d)access the PartnerTap Servers and send and receive Customer Data, Customer Functionality, and/or Customer Business Logic to and from the PartnerTap Servers.
+1. use the PartnerTap APIs to develop the Customer Software and customize and configure Customer's systems and networks solely as necessary to interface with the PartnerTap Servers;
+2. create Modified Code and incorporate the Sample Code, Code Library or Modified Code into the Customer Software;
+3. use Sample Code, the Code Library or Modified Code incorporated in Customer Software to interface with the PartnerTap Servers; and
+4. access the PartnerTap Servers and send and receive Customer Data, Customer Functionality, and/or Customer Business Logic to and from the PartnerTap Servers.
 
-### **2.2.** Restrictions. In addition to other restrictions with respect to PartnerTap Analytics API specified in the Service Description Guide for the Service, Customer shall not directly or indirectly do any of the following:
+### **2.2.** Restrictions. In addition to other restrictions with respect to PartnerTap Analytics API specified above, Customer shall not directly or indirectly do any of the following:
 
 1. (a)use the PartnerTap APIs for any purpose other than for the purposes described in Section 1.1 above or in any manner that violates or does not comply with the written directions or instructions provided with the PartnerTap APIs;
 2. (b)improve, prepare derivative works of or otherwise modify the PartnerTap APIs. For the avoidance of doubt, this Section 1.2(b) does not limit Customer's rights with respect to Modified Code as set forth in Section 1.1 above.
