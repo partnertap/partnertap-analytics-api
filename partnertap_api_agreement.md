@@ -2,7 +2,7 @@
 
 PartnerTap Analytics API is an extended service that can be ordered from PartnerTap, Expense or Invoice Processing service types under which PartnerTap will make the following available to Customer: (a) access to the PartnerTap APIs using API Keys issued by PartnerTap, and (b) training and support services as set out below. Customer's use of PartnerTap Analytics API is also subject to additional terms and conditions as set forth or referenced in the Agreement.
 
-### _1.0.1.1 Definitions:_
+### _1.1 Definitions:_
 
 * "**API Keys**"means the API keys, access tokens, account numbers, and other access credentials issued by PartnerTap to Customer to access the PartnerTap Servers and use the PartnerTap APIs.
 
@@ -28,7 +28,7 @@ PartnerTap Analytics API is an extended service that can be ordered from Partner
 
 * "**Sample Code**"means the sample source code, scripts, and other software made available by PartnerTap to Customer under the Agreement in
 
-### _1.0.1.2 PartnerTap's Performance_
+### _1.2 PartnerTap's Performance_
 
 If PartnerTap Analytics API is ordered by the Customer, then PartnerTap will:
 
@@ -50,7 +50,7 @@ If PartnerTap Analytics API is ordered by the Customer, then PartnerTap will:
 
 PartnerTap may revise, suspend or cancel any or all PartnerTap APIs, at any time, in accordance with the PartnerTap [API Lifecycle and Deprecation Policy](https://github.com/partnertap/partnertap-analytics-api/blob/master/api_deprecation_policy.md), which may be reasonably updated by PartnerTap from time to time. Without limiting the foregoing, PartnerTap may suspend or cancel any or all of the PartnerTap APIs immediately, with or without notice to Customer, in the event of an actual or reasonably suspected security breach or threat.
 
-### _1.0.1.3 Customer's Performance_
+### _1.3 Customer's Performance_
 
 If PartnerTap Analytics API is ordered by the Customer, then Customer agrees to the following:
 
