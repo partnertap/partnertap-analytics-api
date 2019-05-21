@@ -66,8 +66,7 @@ If PartnerTap Analytics API is ordered by the Customer, then Customer agrees to 
 
 * Customer shall not access or attempt to access through the PartnerTap APIs any data other than the Customer Data.
 
-**CLIENT WEB SERVICES
-TERMS AND CONDITIONS**
+**TERMS AND CONDITIONS**
 
 Customer's use of PartnerTap Analytics API, including the PartnerTap APIs and the PartnerTap Software Development Kit included therein, shall be subject to the terms of the Agreement including these terms and conditions. In the event that any terms herein are inconsistent with the terms of the Agreement, then these terms and conditions shall control. All capitalized terms herein take their definitions from the Agreement, including those definitions related to PartnerTap Analytics API set forth above.
 
