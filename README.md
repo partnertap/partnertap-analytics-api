@@ -14,6 +14,9 @@ The [Opportunities Shared](https://reports.partnertap.com/swagger-ui.html#/Oppor
 ### SaleAccounts Matched/Unmatched
 The [SaleAccounts](https://reports.partnertap.com/swagger-ui.html#/SaleAccounts_Matched/Unmatched) endpoints provide a complete list of matched or unmatched accounts. The results can be filtered by a partner organization or search string.
 
+### Chats Exchanged
+The [Chats Exchanged](https://reports.partnertap.com/swagger-ui.html#/Chats_Exchanged) endpoints provide a list of sales reps and how many chat exchanges they have generated, segregated by partner org.
+
 ## Usage
 
 ### Obtain a JWT Token
@@ -43,3 +46,7 @@ Most endpoints are paginated and have three optional params: page, size and sort
 ### Explore the Documentation
 
 Get familiar with PartnerTap API by looking through the [swagger documentation](https://reports.partnertap.com/api).
+
+## TODO
+1. Sales Rep endpoints for Chat Exchanges details
+2. Time series endpoints for Dashboard 
