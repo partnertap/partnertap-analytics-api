@@ -51,6 +51,7 @@ Most endpoints are paginated and have three optional params: page, size and sort
 
 Get familiar with PartnerTap API by looking through the [swagger documentation](https://reports.partnertap.com/api).
 
-## TODO
+## Roadmap
 1. Sales Rep endpoints for Chat Exchanges details
 2. Time series endpoints for Dashboard 
+3. Usage examples
