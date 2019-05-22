@@ -1,6 +1,19 @@
 # PartnerTap Analytics API
 The PartnerTap Analytics API provides usage statistics and partnership data for your organization.
 
+## Overview
+### Dashboard
+The [Dashboard](https://reports.partnertap.com/swagger-ui.html#/Dashboard_by_Division) endpoints provide organization wide high level point in time analytics for chat counts, partnership counts, slaes rep counts, and sales rep login counts.
+
+### Partnership Statistics
+The [Partnership Statistic](https://reports.partnertap.com/swagger-ui.html#!/Partnerships_Statistics/getNewRepConnectionsUsingGET) endpoints provide a individual sales rep stats for number and type of partnership connections. You can use these endpoints to determine which sales reps have  partnership requests that they have not responded to, the number of partnership requests they've sent they have not been responded to yet, and the number of partnerships accepted. 
+
+### Opportunities Shared
+The [Opportunities Shared](https://reports.partnertap.com/swagger-ui.html#/Opportunities_Shared) endpoints provide a high level summary of the all the orgs you are sharing opps with. It also provides a complete list of opportunities inbound/outbound for all partner organizations that can be filtered by partner organiztion.
+
+### SaleAccounts Matched/Unmatched
+The [SaleAccounts](https://reports.partnertap.com/swagger-ui.html#/SaleAccounts_Matched/Unmatched) endpoints provide a complete list of matched or unmatched accounts. The results can be filtered by a partner organization or search string.
+
 ## Usage
 
 ### Obtain a JWT Token
@@ -24,6 +37,8 @@ curl -X GET \
   -H 'Accept: */*' \
   -H 'Authorization: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI4YTQyODFmMjZhOTYxMjdmMDE2YTk2MTJkYjQwMDAwMCIsImNvbS5wYXJ0bmVydGFwLnBlcm1pc3Npb25zIjoiQVBJX0FDQ0VTUyIsImlzcyI6IlBhcnRuZXJUYXAiLCJleHAiOjE1NTk4ODk3NDQsImlhdCI6MTU1NzI5NzE0NCwiY29tLnBhcnRuZXJ0YXAuYWRtaW4uaWQiOiI4YTQyODFmMjZhOGVjZDk0MDE2YThlY2U5ZDNkMDAwMiJ9.6XapFtb-sAfpq1u9PwUgcsBu1PfTE3Zh5_bdl756zew' \
 ```
+### Pagination
+Most endpoints are paginated and have three optional params: page, size and sort.  Page is the page number you would like to retrieve. Size is the number of records per page. Sort is the column you would like to sort on (e.g. sort=partnerOrg,asc).
 
 ### Explore the Documentation
 
