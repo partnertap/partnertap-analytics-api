@@ -2,6 +2,10 @@
 The PartnerTap Analytics API provides usage statistics and partnership data for your organization.
 
 ## Overview
+
+### API Basics
+The [API Basics](https://reports.partnertap.com/swagger-ui.html#/*_API_Basics) endpoints provide auth functionality. This is the first endpoint you will need to setup in order to retrieve a JWT token with your API Key (provided by PartnerTap customer service). 
+
 ### Dashboard
 The [Dashboard](https://reports.partnertap.com/swagger-ui.html#/Dashboard_by_Division) endpoints provide organization wide high level point in time analytics for chat counts, partnership counts, slaes rep counts, and sales rep login counts.
 
