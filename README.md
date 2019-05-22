@@ -49,7 +49,7 @@ Most endpoints are paginated and have three optional params: page, size and sort
 
 ### Explore the Documentation
 
-Get familiar with PartnerTap API by looking through the [swagger documentation](https://reports.partnertap.com/api).
+Get familiar with PartnerTap API by looking through the [swagger documentation](https://reports.partnertap.com/swagger-ui.html).
 
 ## Roadmap
 1. Sales Rep endpoints for Chat Exchanges details
