@@ -1,5 +1,5 @@
 # PartnerTap Analytics API
-The PartnerTap Analytics API provides usage statistics and partnership data for your organization.
+The [PartnerTap Analytics API](https://reports.partnertap.com/swagger-ui.html) provides usage statistics and partnership data for your organization.
 
 ## Overview
 
